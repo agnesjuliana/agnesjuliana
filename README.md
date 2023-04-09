@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 📝 I regularly write articles on [https://medium.com/@agajuliansyah](https://medium.com/@agajuliansyah)
+- 📝 Read my unimportant post on [Medium](https://medium.com/@agajuliansyah)
 
-- 📫 How to reach me **agnesjulianaprofile@gmail.com**
+- 📫 Reach me on **agnesjulianaprofile@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/agnesjuliana/](https://www.linkedin.com/in/agnesjuliana/)
+- 📄 See my experience [LinkedIn](https://www.linkedin.com/in/agnesjuliana/)
 
 - ⚡ Fun fact **Matured too fast (hiks :')**
 
